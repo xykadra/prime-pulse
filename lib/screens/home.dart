@@ -27,7 +27,7 @@ class _HomeState extends State<Home> {
       tabBar: CupertinoTabBar(
         // inactiveColor: const Color.fromRGBO(116, 127, 134, 1),
         border: Border.all(color: Colors.transparent),
-        height: 20,
+        //height: 20,
         backgroundColor: Colors.blue[50],
         //backgroundColor: Colors.transparent,
         onTap: (i) {
